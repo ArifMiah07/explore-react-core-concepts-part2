@@ -28,4 +28,6 @@ export default function Users(){
  * 1. declare a state to hold the data
  * 2. useEffect with call bak and dependency array
  * 3. use fetch to load data
+ *
+ * 5.display data
  */
